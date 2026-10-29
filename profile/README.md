@@ -6,7 +6,7 @@ The Computer-Aided Validation Laboratory (CAVL) is a research laboratory develop
 
 Our goal is to help researchers and engineers **design better experiments, understand measurement uncertainty and make evidence-based engineering decisions** by connecting physics simulations with experimental measurements.
 
-Our research and software development are led by a team at the [UK Atomic Energy Authority (UKAEA)](https://www.ukaea.uk/), working with academic and industrial collaborators.
+Our research and software development are led by a team at the UK Atomic Energy Authority (UKAEA), working with academic and industrial collaborators.
 
 ## Our Software
 
@@ -18,7 +18,7 @@ Our research and software development are led by a team at the [UK Atomic Energy
 
 **PyVale** is our flagship Python platform for simulation-driven experimental design. It connects physics simulations, sensor simulation, measurement inference and information exploitation to support the design and analysis of engineering experiments.
 
-[GitHub Repository](https://github.com/Computer-Aided-Validation-Laboratory/pyvale) | [Documentation & Examples](https://computer-aided-validation-laboratory.github.io/pyvale/)
+[GitHub Repository](https://github.com/Computer-Aided-Validation-Laboratory/pyvale) | [Documentation & Examples](https://computer-aided-validation-laboratory.github.io/pyvale/) | [Python Package](https://pypi.org/project/pyvale/)
 
 ### Riley — Scientific Camera Simulation
 
